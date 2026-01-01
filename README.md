@@ -1,7 +1,5 @@
-# 👋 Halo! I'm Nabil Fahriza Naufal
 ![Nabil Fahriza](./github-header-banner.png)
-🎯 **Data Analis | Frontend Developer | Pelukis**  
-💡 Tertarik pada pengembangan software, data, dan teknologi yang berdampak nyata serta mengembangkan lukis dengan perkembangan teknologi
+##### I'm a student at Digital Technology University Indonesia
 
 ---
 
