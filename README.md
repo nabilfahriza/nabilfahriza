@@ -1,5 +1,5 @@
 # 👋 Halo! I'm Nabil Fahriza Naufal
-
+![Nabil Fahriza](./github-header-banner.png)
 🎯 **Data Analis | Frontend Developer | Pelukis**  
 💡 Tertarik pada pengembangan software, data, dan teknologi yang berdampak nyata serta mengembangkan lukis dengan perkembangan teknologi
 
@@ -44,8 +44,9 @@
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Socials
 - 💼 LinkedIn: [linkedin.com/in/username](https://linkedin.com)
 - 📫 Email: nabilfahriza20@gmail.com
+- 
 - 🌍 Portfolio: coming soon
 
