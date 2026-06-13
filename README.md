@@ -4,7 +4,7 @@
 ---
 
 ## 🚀 About Me
-- 🌱 Saat ini sedang mendalami **Data Analis**
+- 🌱 Saat ini sedang mendalami **Data Analyst**
 - 💻 Suka membangun aplikasi yang **clean, scalable, dan useful**
 - 🧠 Percaya bahwa *learning never stops*
 - 📍 Based in Indonesia
